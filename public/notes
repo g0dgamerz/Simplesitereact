@@ -1,0 +1,12 @@
+create component folder
+and  create js files inside it 
+class We extends Component{
+    render(){
+        return(
+            <div>
+                <h1>This is We files</h1>
+            </div>
+        );
+    }
+}
+export default We;
